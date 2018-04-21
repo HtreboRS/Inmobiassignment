@@ -1,0 +1,30 @@
+PODS:
+  - InMobiSDK (7.1.1)
+  - mopub-ios-sdk (4.20.1):
+    - mopub-ios-sdk/MoPubSDK (= 4.20.1)
+  - mopub-ios-sdk/Avid (4.20.1):
+    - mopub-ios-sdk/Core
+  - mopub-ios-sdk/Core (4.20.1)
+  - mopub-ios-sdk/Moat (4.20.1):
+    - mopub-ios-sdk/Core
+  - mopub-ios-sdk/MoPubSDK (4.20.1):
+    - mopub-ios-sdk/Avid
+    - mopub-ios-sdk/Core
+    - mopub-ios-sdk/Moat
+
+DEPENDENCIES:
+  - InMobiSDK (~> 7.1)
+  - mopub-ios-sdk
+
+SPEC REPOS:
+  https://github.com/CocoaPods/Specs.git:
+    - InMobiSDK
+    - mopub-ios-sdk
+
+SPEC CHECKSUMS:
+  InMobiSDK: 8306ff9c9a966b4a43dd957f57b407a1a9ab7ba5
+  mopub-ios-sdk: 6220599bacc1c47f4117b7af5e9616f6779157a5
+
+PODFILE CHECKSUM: 4c6df903eaeb3074951d1c990d9cfa8939da6ed1
+
+COCOAPODS: 1.5.0
